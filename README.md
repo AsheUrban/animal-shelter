@@ -7,7 +7,8 @@
 * _CSS_
 
 ## Description
-_This is a very basic landing page created to showcase our new skills using the box method, floats, and columns. _
+_This is a very basic landing page created to showcase our new skills using the box method, floats, and columns._
+
 ## Setup/Installation Requirements
 * _Clone this repository, portfolio-landing-page, to your desktop._
 * _Open the index.html in VS Code to run code on local host._
