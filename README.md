@@ -9,7 +9,7 @@
 ## Description
 _This is a very basic landing page created to showcase our new skills using cascasding styles, the box method, floats, and columns._
 
-_Link to Assignment: https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/practice-cascading_
+_Link to assignment: https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/practice-cascading_
 
 ## Setup/Installation Requirements
 * _Clone this repository, portfolio-landing-page, to your desktop._
