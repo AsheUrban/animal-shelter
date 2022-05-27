@@ -4,7 +4,8 @@
 
 ## Technologies Used
 * _HTML_
-* *CSS*
+* _CSS_
+
 ## Description
 _This is a very basic landing page created to showcase our new skills using the box method, floats, and columns. _
 ## Setup/Installation Requirements
