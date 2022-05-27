@@ -1,13 +1,15 @@
 # _animal-shelter_
 ####  By _Ashe Urban_& Sandra Tena
-#### _Working from the prompt to create an animal shelter, we practiced using the box method and floats!_
+#### _Working from the prompt to create an animal shelter, we practiced using cascading styles, the box method and floats!_
 
 ## Technologies Used
 * _HTML_
 * _CSS_
 
 ## Description
-_This is a very basic landing page created to showcase our new skills using the box method, floats, and columns._
+_This is a very basic landing page created to showcase our new skills using cascasding styles, the box method, floats, and columns._
+
+_Link to Assignment: https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/practice-cascading_
 
 ## Setup/Installation Requirements
 * _Clone this repository, portfolio-landing-page, to your desktop._
