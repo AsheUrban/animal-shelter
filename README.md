@@ -1,5 +1,5 @@
 # _animal-shelter_
-####  By _Ashe Urban_& Sandra Tena
+####  By _Ashe Urban_& _Sandra Tena_
 #### _Working from the prompt to create an animal shelter, we practiced using cascading styles, the box method and floats!_
 
 ## Technologies Used
@@ -20,7 +20,6 @@ _In your cloned local repository you should find the following directories, in a
 ## Known Bugs
 
 *_No links included._
-*_IMG spacing and formatting issues_
 
 ## License
 * MIT
