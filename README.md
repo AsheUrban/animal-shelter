@@ -7,7 +7,7 @@
 * _CSS_
 
 ## Description
-_This is a very basic landing page created to showcase our new skills using cascasding styles, the box method, floats, and columns._
+_This is a very basic landing page created to showcase our new skills using cascading styles, the box method, floats, and columns._
 
 _Link to assignment: https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/practice-cascading_
 
